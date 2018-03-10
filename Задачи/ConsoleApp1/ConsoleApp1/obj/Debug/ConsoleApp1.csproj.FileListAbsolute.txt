@@ -1,0 +1,7 @@
+D:\За Сами\ИТ - курсове\Config\Задачи\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\За Сами\ИТ - курсове\Config\Задачи\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\За Сами\ИТ - курсове\Config\Задачи\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\За Сами\ИТ - курсове\Config\Задачи\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\За Сами\ИТ - курсове\Config\Задачи\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\За Сами\ИТ - курсове\Config\Задачи\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\За Сами\ИТ - курсове\Config\Задачи\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
