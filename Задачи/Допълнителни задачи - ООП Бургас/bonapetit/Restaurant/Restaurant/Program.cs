@@ -138,6 +138,7 @@ namespace Restaurant
 				recommendation.Name,
 				Math.Round(recommendation.Price, 2));
 		}
+
 		private static void RecommendByPriceAndType(double price, string type) {
             MethodInfo method = typeof(Meal).GetMethod("RecommendByPriceAndType");
             Meal recommendation = (Meal)method.Invoke(null, new object[] { price, type, meals });

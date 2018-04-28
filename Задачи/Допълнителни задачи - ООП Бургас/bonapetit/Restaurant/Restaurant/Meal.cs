@@ -59,6 +59,7 @@ namespace Restaurant
                 this.type = value;
             }
         }
+
         public double Price
         {
             get
@@ -123,7 +124,6 @@ namespace Restaurant
         {
             return this.name+" - "+this.type;
         }
-       
 
     }
 }
