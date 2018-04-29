@@ -1,0 +1,21 @@
+        public List<Part> GetPartsWithPriceAbove(double price)
+        {
+            List<Part> list = new List<Part>();;
+            foreach (Part i in parts)
+            {
+                if (i.Price > price) list.Add(i);
+            }
+            return list;
+        }
+
+        public void Drive(double distance)
+        {
+            double loadCapacity1 = 0.0;
+            loadCapacity1 = loadCapacity - loadCapacity * 0.2 * distance;
+            if (loadCapacity1 < 0.00)
+            {
+                throw new ArgumentException("Drive not possible.");
+            }
+            loadCapacity = loadCapacity1;
+            //TODO: Добавете вашия код тук …
+        }
