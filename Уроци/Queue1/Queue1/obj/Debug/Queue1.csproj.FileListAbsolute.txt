@@ -1,1 +1,0 @@
-c:\users\pc\documents\visual studio 2013\Projects\Queue1\Queue1\bin\Debug\Queue1.exe.config

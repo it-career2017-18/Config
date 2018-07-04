@@ -1,6 +1,0 @@
-c:\users\pc\documents\visual studio 2013\Projects\LinkedStack\LinkedStack\bin\Debug\LinkedStack.exe.config
-c:\users\pc\documents\visual studio 2013\Projects\LinkedStack\LinkedStack\bin\Debug\LinkedStack.exe
-c:\users\pc\documents\visual studio 2013\Projects\LinkedStack\LinkedStack\bin\Debug\LinkedStack.pdb
-c:\users\pc\documents\visual studio 2013\Projects\LinkedStack\LinkedStack\obj\Debug\LinkedStack.csprojResolveAssemblyReference.cache
-c:\users\pc\documents\visual studio 2013\Projects\LinkedStack\LinkedStack\obj\Debug\LinkedStack.exe
-c:\users\pc\documents\visual studio 2013\Projects\LinkedStack\LinkedStack\obj\Debug\LinkedStack.pdb

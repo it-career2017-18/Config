@@ -1,6 +1,0 @@
-c:\users\pc\documents\visual studio 2013\Projects\Stack1\Stack1\bin\Debug\Stack1.exe.config
-c:\users\pc\documents\visual studio 2013\Projects\Stack1\Stack1\bin\Debug\Stack1.exe
-c:\users\pc\documents\visual studio 2013\Projects\Stack1\Stack1\bin\Debug\Stack1.pdb
-c:\users\pc\documents\visual studio 2013\Projects\Stack1\Stack1\obj\Debug\Stack1.csprojResolveAssemblyReference.cache
-c:\users\pc\documents\visual studio 2013\Projects\Stack1\Stack1\obj\Debug\Stack1.exe
-c:\users\pc\documents\visual studio 2013\Projects\Stack1\Stack1\obj\Debug\Stack1.pdb

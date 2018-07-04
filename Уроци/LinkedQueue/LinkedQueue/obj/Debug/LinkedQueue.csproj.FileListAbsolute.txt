@@ -1,5 +1,0 @@
-c:\users\pc\documents\visual studio 2013\Projects\LinkedQueue\LinkedQueue\bin\Debug\LinkedQueue.exe.config
-c:\users\pc\documents\visual studio 2013\Projects\LinkedQueue\LinkedQueue\bin\Debug\LinkedQueue.exe
-c:\users\pc\documents\visual studio 2013\Projects\LinkedQueue\LinkedQueue\bin\Debug\LinkedQueue.pdb
-c:\users\pc\documents\visual studio 2013\Projects\LinkedQueue\LinkedQueue\obj\Debug\LinkedQueue.exe
-c:\users\pc\documents\visual studio 2013\Projects\LinkedQueue\LinkedQueue\obj\Debug\LinkedQueue.pdb
