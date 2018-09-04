@@ -1,6 +1,0 @@
-c:\users\pc\documents\visual studio 2013\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
-c:\users\pc\documents\visual studio 2013\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.exe
-c:\users\pc\documents\visual studio 2013\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
-c:\users\pc\documents\visual studio 2013\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.csprojResolveAssemblyReference.cache
-c:\users\pc\documents\visual studio 2013\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.exe
-c:\users\pc\documents\visual studio 2013\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.pdb
