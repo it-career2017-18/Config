@@ -1,0 +1,2 @@
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 7\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20190123\Скелет\Lab\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojAssemblyReference.cache
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 7\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20190123\Скелет\Lab\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CoreCompileInputs.cache
