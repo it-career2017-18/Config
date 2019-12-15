@@ -1,0 +1,13 @@
+C:\Users\nikol\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\nikol\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\nikol\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\nikol\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\nikol\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\nikol\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\Материали към курса-20191214\01-internet-and-sockets\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\Материали към курса-20191214\01-internet-and-sockets\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\Материали към курса-20191214\01-internet-and-sockets\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\Материали към курса-20191214\01-internet-and-sockets\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\Материали към курса-20191214\01-internet-and-sockets\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\Материали към курса-20191214\01-internet-and-sockets\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\Материали към курса-20191214\01-internet-and-sockets\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

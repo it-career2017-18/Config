@@ -1,0 +1,13 @@
+C:\Users\nikol\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\nikol\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\nikol\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\nikol\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\nikol\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\01-internet-and-sockets\ChatServer\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\01-internet-and-sockets\ChatServer\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\01-internet-and-sockets\ChatServer\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\01-internet-and-sockets\ChatServer\ChatServer\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\01-internet-and-sockets\ChatServer\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\01-internet-and-sockets\ChatServer\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+D:\My-Zone\IT-Zone\Repos\Config\Уроци\Модул 11\01-internet-and-sockets\ChatServer\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
